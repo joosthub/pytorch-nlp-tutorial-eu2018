@@ -11,7 +11,7 @@ Natural Language Processing (NLP) with PyTorch
    faq
    migration
 
-.. .. toctree::
+ .. toctree::
    :hidden:
    :caption: Day 1 Materials
 
