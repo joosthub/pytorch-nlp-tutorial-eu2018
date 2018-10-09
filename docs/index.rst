@@ -11,13 +11,14 @@ Natural Language Processing (NLP) with PyTorch
    faq
    migration
 
- .. toctree::
+.. toctree::
    :hidden:
    :caption: Day 1 Materials
 
    day1/takehome
+   day1/solutions
 
-.. .. toctree::
+.. toctree::
    :hidden:
    :maxdepth: 3
    :caption: Day 2 Materials
@@ -25,12 +26,6 @@ Natural Language Processing (NLP) with PyTorch
    day2/warmup
    day2/failfastprototypemode
    day2/tensorfu1
-   day2/tensorfu2
-   day2/patterns/tidbits
-   day2/adventures/lookups
-   day2/adventures/interpolation
-   day2/sampling
-
 
 
 Hello! This is a directory of resources for a training tutorial to be
