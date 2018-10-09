@@ -26,6 +26,7 @@ Natural Language Processing (NLP) with PyTorch
    day2/warmup
    day2/failfastprototypemode
    day2/tensorfu1
+   day2/sampling
 
 
 Hello! This is a directory of resources for a training tutorial to be
